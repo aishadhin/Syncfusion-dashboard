@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Employee = () => {
+const Customers = () => {
     return (
         <div>
-            Employee
+            Customers
         </div>
     );
 };
 
-export default Employee;
+export default Customers;

@@ -1,6 +1,8 @@
 // to know: 
 /*
 *what is craco?
+*what is createContext, useContext and how they work.
+*onClick={() => setActiveMenu((prevActiveMenu) => !prevActiveMenu)}
 */ 
 
 

@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Navabar = () => {
+const Employees = () => {
     return (
         <div>
-            Navabar
+            Employees
         </div>
     );
 };
 
-export default Navabar;
+export default Employees;
