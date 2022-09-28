@@ -3,6 +3,7 @@
 *what is craco?
 *what is createContext, useContext and how they work.
 *onClick={() => setActiveMenu((prevActiveMenu) => !prevActiveMenu)}
+*const NavButton = ({ title, customFunc, icon, color, dotColor }) where it comes from
 */ 
 
 
